@@ -5,7 +5,7 @@ Pipeline Order:
 - Verifying_Date_Ordering***
 - NaN_Behavior***
 - Sequence_Generator 
-- Sequential_Model 
+- LSTM_Model 
 
 
 *** not part of the actual pipeline - used to verify data behavior 
